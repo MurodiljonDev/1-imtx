@@ -1,0 +1,14 @@
+.hero{
+    width: 100%;
+}
+.cards{
+    width: 100%;
+    margin: 20 auto;
+    display: grid;
+    gap: 20px;
+}
+
+
+.card > img{
+    width: 100%;
+}
